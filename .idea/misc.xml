@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nc/AndroidStudioProjects/Bottom_Nav_Jetpack_Comp/app/src/main/java/com/example/bottom_nav_jetpack_comp/MainActivity.kt" value="1.6245487364620939" />
+        <entry key="..\:/Users/nc/AndroidStudioProjects/Bottom_Nav_Jetpack_Comp/app/src/main/java/com/example/bottom_nav_jetpack_comp/screens/Home.kt" value="0.33572635135135137" />
+        <entry key="..\:/Users/nc/AndroidStudioProjects/Bottom_Nav_Jetpack_Comp/app/src/main/java/com/example/bottom_nav_jetpack_comp/screens/Profile.kt" value="0.3236286919831224" />
+        <entry key="..\:/Users/nc/AndroidStudioProjects/Bottom_Nav_Jetpack_Comp/app/src/main/java/com/example/bottom_nav_jetpack_comp/screens/Settings.kt" value="0.33544303797468356" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
